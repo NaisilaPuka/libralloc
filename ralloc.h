@@ -4,7 +4,7 @@
 #include <pthread.h>
 
 #define MAX_RESOURCE_TYPES 10 
-#define MAX_PROCESSES 20 
+#define MAX_PROCESSES 20
 
 #define DEADLOCK_NOTHING   1
 #define DEADLOCK_DETECTION 2
